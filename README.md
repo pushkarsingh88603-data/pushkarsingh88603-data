@@ -2,47 +2,71 @@
 
 <div align="center">
 
-# Hi, I'm Pushkar Singh 👋
+# Pushkar Singh
 
-### Data Analytics • Machine Learning • Turning Data into Insights
+### Data Analytics · Machine Learning · Data-Driven Problem Solving
 
-I enjoy exploring data, building practical machine-learning projects, and presenting findings in a clear, useful way.
+I build projects that turn datasets into useful insights and explore how machine learning can solve practical problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-pushkarsingh88603--data-181717?style=for-the-badge&logo=github)](https://github.com/pushkarsingh88603-data)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/pushkarsingh88603-data)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 📊 Interested in data analytics, data-driven problem solving, and machine learning.
-- 🧠 Building projects to practice working with real-world datasets.
-- 🌱 Continuously learning and improving my technical skills.
-- 🤝 Open to learning from the developer and data community.
+- 📊 Interested in data analytics, exploratory analysis, and data-driven decision-making.
+- 🤖 Exploring machine learning through hands-on projects.
+- 🧩 Practising how to turn raw data into clear, useful findings.
+- 🌱 Always learning, improving, and building.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | What it's about |
-| --- | --- |
-| 🏠 [Boston House Price Prediction App](https://github.com/pushkarsingh88603-data/Boston_House_Price_Prediction_App) | A house-price prediction project focused on estimating property values. |
-| 🛍️ [Customer Shopping Behavior Analytics](https://github.com/pushkarsingh88603-data/customer_shopping_behavior_analytics) | Exploring customer shopping data to identify patterns and insights. |
-| ✈️ [Travel Data Analysis](https://github.com/pushkarsingh88603-data/Travel-Data-Analysis) | A data analysis project focused on travel-related data. |
-| 🩺 [Breast Cancer](https://github.com/pushkarsingh88603-data/breast_cancer) | A machine-learning/data project using a breast-cancer dataset. |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏠 Boston House Price Prediction</h3>
+      A project focused on predicting house prices from property-related data.
+      <br/><br/>
+      <a href="https://github.com/pushkarsingh88603-data/Boston_House_Price_Prediction_App">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🛍️ Customer Shopping Behavior Analytics</h3>
+      An analytics project exploring shopping behaviour and customer patterns.
+      <br/><br/>
+      <a href="https://github.com/pushkarsingh88603-data/customer_shopping_behavior_analytics">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>✈️ Travel Data Analysis</h3>
+      A project exploring travel-related data and potential insights.
+      <br/><br/>
+      <a href="https://github.com/pushkarsingh88603-data/Travel-Data-Analysis">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🩺 Breast Cancer Dataset</h3>
+      A data-focused project working with a breast-cancer dataset.
+      <br/><br/>
+      <a href="https://github.com/pushkarsingh88603-data/breast_cancer">View repository →</a>
+    </td>
+  </tr>
+</table>
 
-## 🧰 Areas I'm Exploring
+## Tools & Topics
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-2563EB?style=flat-square" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Data Analytics" src="https://img.shields.io/badge/Data_Analytics-2563EB?style=for-the-badge" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-*This section highlights areas reflected by my projects and can be updated as my toolkit grows.*
+*This list reflects current project themes and learning interests; it can grow as I work with more tools.*
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -50,12 +74,14 @@ I enjoy exploring data, building practical machine-learning projects, and presen
 
 </div>
 
-## 📫 Connect
+## Connect
 
-- GitHub: [@pushkarsingh88603-data](https://github.com/pushkarsingh88603-data)
+- **GitHub:** [@pushkarsingh88603-data](https://github.com/pushkarsingh88603-data)
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile — I'm always learning, building, and improving.</i>
+
+*Thanks for stopping by — I'm learning, building, and getting better with every project.*
+
 </div>
